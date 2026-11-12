@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. *arXiv, 2025* — **First author.**
+2. **On the Perception Bottleneck of VLMs for Chart Understanding.** **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. *arXiv, 2025* — **First author.**
+3. **On the Universal Truthfulness Hyperplane Inside LLMs.** **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. *EMNLP 2024* — **First author.**
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.** Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. *ICML 2024*.
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.** Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. *NeurIPS 2023*.
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations.** Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. *NeurIPS 2023*.
+
+[Back to Home]({{ '/' | relative_url }})
